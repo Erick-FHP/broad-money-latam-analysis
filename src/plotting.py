@@ -3,12 +3,12 @@ import seaborn as sns
 
 # Paleta
 COUNTRY_COLORS = {
-    "Mexico": "#2E86AB",
-    "Brazil": "#E76F51",
-    "Colombia": "#F4A261",
-    "Uruguay": "#6A4C93",
-    "Chile": "#2A9D8F",
-    "World": "#264653"
+    "MEX": "#2E86AB",
+    "BRA": "#E76F51",
+    "COL": "#F4A261",
+    "URY": "#6A4C93",
+    "CHL": "#2A9D8F",
+    "WLD": "#264653"
 }
 
 def set_project_style():
