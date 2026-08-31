@@ -8,6 +8,7 @@ COUNTRY_COLORS = {
     "COL": "#F4A261",
     "URY": "#6A4C93",
     "CHL": "#2A9D8F",
+    "ARG": "#8C564B",
     "WLD": "#264653"
 }
 
